@@ -1,4 +1,7 @@
 node_modules
 informacion.md
 
+google-signin-demo/node_modules/
+google-signin-demo/informacion.md
+
 uploads/*
